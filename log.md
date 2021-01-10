@@ -85,7 +85,7 @@
 
 
 
-## Day 8: January 9, 2020
+## Day 9: January 9, 2020
 
 **Today's Progress**: Started setting up apache web server on my mac to show projects I'm working on live for friends in the discord group. Didn't finish setting it up; need to figure out how to provide secure access (or  at least get past the 403, set up dns resolution for my ip or add a domain name, and provide a home directory to see the different websites in one place.
 
@@ -93,6 +93,17 @@
 
 
 **Link(s) to work**
+1. https://github.com/johncrimmins/Product-Landing-Page-FCC
+
+## Day 10: January 10, 2020
+
+**Today's Progress**: Only coded for 1 hour today. Styled footer on Product Landing Page and fixed  the elements features. 
+
+**Thoughts**  I feel like 1) I am over-using grids / flexbox, and I still need to make the sites more responsive. On my next site, I will start with a responsive-first approach and ensure I use @media queries to get experience with those. I would like to understand what typical best-practice patterns look like here. Also, I heard about CSS Preprocessing - looking forward to looking into this.
+
+
+**Link(s) to work**
+1. https://github.com/johncrimmins/Product-Landing-Page-FCC
 
 
 
