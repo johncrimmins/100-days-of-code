@@ -62,6 +62,39 @@
 **Link(s) to work**
 1. https://github.com/johncrimmins/blog
 
+## Day 7: January 7, 2020
+
+**Today's Progress**: Wrapped up self-blog for the moment, going to learn infinite-scroll and implement on the write side. Started on the Product Landing Page at FCC. 
+
+**Thoughts** having fun :)
+
+
+**Link(s) to work**
+1. https://github.com/johncrimmins/blog
+
+
+## Day 8: January 8, 2020
+
+**Today's Progress**: Pretty busy at work lately so haven't been able to code much, but made  significant progress on the product landing page today. Played with grids, flex, and made a custom nav. 
+
+**Thoughts** 
+
+
+**Link(s) to work**
+1. https://github.com/johncrimmins/blog
+
+
+
+## Day 8: January 9, 2020
+
+**Today's Progress**: Started setting up apache web server on my mac to show projects I'm working on live for friends in the discord group. Didn't finish setting it up; need to figure out how to provide secure access (or  at least get past the 403, set up dns resolution for my ip or add a domain name, and provide a home directory to see the different websites in one place.
+
+**Thoughts** Listened to DHH talking  about Ruby on Rails the other day. Looking for more happiness, expression, and creative flow  in my work. Excited. 
+
+
+**Link(s) to work**
+
+
 
 
 
